@@ -21,7 +21,7 @@ body {
   .col-3 { width: 75%; }
   .col-4 { width: 100%; }
   
-  nav { margin-top: 60px; }
+  nav { margin-top: 20px; }
 }
 
 .header-place {
@@ -63,7 +63,7 @@ body > footer {
   height: 0; 
   border-left: 8px solid transparent;
   border-right: 8px solid transparent;
-  border-bottom: 8px solid #ccc;
+  border-bottom: 8px solid #fff;
 } 
 
 nav {
