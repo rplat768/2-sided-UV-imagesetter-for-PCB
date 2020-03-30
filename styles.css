@@ -50,7 +50,22 @@ body > header {
 body > footer {
   padding: 10px;
 }
- 
+
+.caret-up {
+  position: absolute;
+  top: 22px;
+  right: 20px;
+}
+
+.caret-up > a {
+  display: block;
+  width: 0; 
+  height: 0; 
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #ccc;
+} 
+
 nav {
   width: 200px;
   border: 1px solid #d1d5da;
